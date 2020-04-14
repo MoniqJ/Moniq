@@ -1,1 +1,0 @@
-# Moniq#This is readme
